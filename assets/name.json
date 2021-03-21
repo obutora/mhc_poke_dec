@@ -1,0 +1,2629 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "jpn": "フシギダネ",
+      "eng": "Bulbasaur",
+      "ger": "Bisasam",
+      "fra": "Bulbizarre",
+      "kor": "이상해씨",
+      "chs": "妙蛙种子",
+      "cht": "妙蛙種子"
+    },
+    "classification": "たねポケモン",
+    "height": "0.7",
+    "weight": "6.9"
+  },
+  {
+    "id": 2,
+    "name": {
+      "jpn": "フシギソウ",
+      "eng": "Ivysaur",
+      "ger": "Bisaknosp",
+      "fra": "Herbizarre",
+      "kor": "이상해풀",
+      "chs": "妙蛙草",
+      "cht": "妙蛙草"
+    },
+    "classification": "たねポケモン",
+    "height": "1.0",
+    "weight": "13.0"
+  },
+  {
+    "id": 3,
+    "name": {
+      "jpn": "フシギバナ",
+      "eng": "Venusaur",
+      "ger": "Bisaflor",
+      "fra": "Florizarre",
+      "kor": "이상해꽃",
+      "chs": "妙蛙花",
+      "cht": "妙蛙花"
+    },
+    "classification": "たねポケモン",
+    "height": "2.0",
+    "weight": "100.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガフシギバナ",
+          "en": "MegaVenusaur"
+        },
+        "height": "2.4",
+        "weight": "155.5"
+      }
+    ],
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスフシギバナ",
+          "en": "GigantamaxVenusaur"
+        },
+        "height": "24.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "jpn": "ヒトカゲ",
+      "eng": "Charmander",
+      "ger": "Glumanda",
+      "fra": "Salameche",
+      "kor": "파이리",
+      "chs": "小火龙",
+      "cht": "小火龍"
+    },
+    "classification": "とかげポケモン",
+    "height": "0.6",
+    "weight": "8.5"
+  },
+  {
+    "id": 5,
+    "name": {
+      "jpn": "リザード",
+      "eng": "Charmeleon",
+      "ger": "Glutexo",
+      "fra": "Reptincel",
+      "kor": "리자드",
+      "chs": "火恐龙",
+      "cht": "火恐龍"
+    },
+    "classification": "かえんポケモン",
+    "height": "1.1",
+    "weight": "19.0"
+  },
+  {
+    "id": 6,
+    "name": {
+      "jpn": "リザードン",
+      "eng": "Charizard",
+      "ger": "Glurak",
+      "fra": "Dracaufeu",
+      "kor": "리자몽",
+      "chs": "喷火龙",
+      "cht": "噴火龍"
+    },
+    "classification": "かえんポケモン",
+    "height": "1.7",
+    "weight": "90.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガリザードンX",
+          "en": "MegaCharizardX"
+        },
+        "height": "1.7",
+        "weight": "110.5"
+      },
+      {
+        "name": {
+          "ja": "メガリザードンY",
+          "en": "MegaCharizardY"
+        },
+        "height": "1.7",
+        "weight": "90.5"
+      }
+    ],
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスリザードン",
+          "en": "GigantamaxCharizard"
+        },
+        "height": "28.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": {
+      "jpn": "ゼニガメ",
+      "eng": "Squirtle",
+      "ger": "Schiggy",
+      "fra": "Carapuce",
+      "kor": "꼬부기",
+      "chs": "杰尼龟",
+      "cht": "傑尼龜"
+    },
+    "classification": "かめのこポケモン",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "id": 8,
+    "name": {
+      "jpn": "カメール",
+      "eng": "Wartortle",
+      "ger": "Schillok",
+      "fra": "Carabaffe",
+      "kor": "어니부기",
+      "chs": "卡咪龟",
+      "cht": "卡咪龜"
+    },
+    "classification": "かめポケモン",
+    "height": "1.0",
+    "weight": "22.5"
+  },
+  {
+    "id": 9,
+    "name": {
+      "jpn": "カメックス",
+      "eng": "Blastoise",
+      "ger": "Turtok",
+      "fra": "Tortank",
+      "kor": "거북왕",
+      "chs": "水箭龟",
+      "cht": "水箭龜"
+    },
+    "classification": "こうらポケモン",
+    "height": "1.6",
+    "weight": "85.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガカメックス",
+          "en": "MegaBlastoise"
+        },
+        "height": "1.6",
+        "weight": "101.1"
+      }
+    ],
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスカメックス",
+          "en": "GigantamaxBlastoise"
+        },
+        "height": "25.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "jpn": "キャタピー",
+      "eng": "Caterpie",
+      "ger": "Raupy",
+      "fra": "Chenipan",
+      "kor": "캐터피",
+      "chs": "绿毛虫",
+      "cht": "綠毛蟲"
+    },
+    "classification": "いもむしポケモン",
+    "height": "0.3",
+    "weight": "2.9"
+  },
+  {
+    "id": 11,
+    "name": {
+      "jpn": "トランセル",
+      "eng": "Metapod",
+      "ger": "Safcon",
+      "fra": "Chrysacier",
+      "kor": "단데기",
+      "chs": "铁甲蛹",
+      "cht": "鐵甲蛹"
+    },
+    "classification": "さなぎポケモン",
+    "height": "0.7",
+    "weight": "9.9"
+  },
+  {
+    "id": 12,
+    "name": {
+      "jpn": "バタフリー",
+      "eng": "Butterfree",
+      "ger": "Smettbo",
+      "fra": "Papilusion",
+      "kor": "버터플",
+      "chs": "巴大蝶",
+      "cht": "巴大蝶"
+    },
+    "classification": "ちょうちょポケモン",
+    "height": "1.1",
+    "weight": "32.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスバタフリー",
+          "en": "GigantamaxButterfree"
+        },
+        "height": "17.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": {
+      "jpn": "ビードル",
+      "eng": "Weedle",
+      "ger": "Hornliu",
+      "fra": "Aspicot",
+      "kor": "뿔충이",
+      "chs": "独角虫",
+      "cht": "獨角蟲"
+    },
+    "classification": "けむしポケモン",
+    "height": "0.3",
+    "weight": "3.2"
+  },
+  {
+    "id": 14,
+    "name": {
+      "jpn": "コクーン",
+      "eng": "Kakuna",
+      "ger": "Kokuna",
+      "fra": "Coconfort",
+      "kor": "딱충이",
+      "chs": "铁壳蛹",
+      "cht": "鐵殼蛹"
+    },
+    "classification": "さなぎポケモン",
+    "height": "0.6",
+    "weight": "10.0"
+  },
+  {
+    "id": 15,
+    "name": {
+      "jpn": "スピアー",
+      "eng": "Beedrill",
+      "ger": "Bibor",
+      "fra": "Dardagnan",
+      "kor": "독침붕",
+      "chs": "大针蜂",
+      "cht": "大針蜂"
+    },
+    "classification": "どくばちポケモン",
+    "height": "1.0",
+    "weight": "29.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガスピアー",
+          "en": "MegaBeedrill"
+        },
+        "height": "1.4",
+        "weight": "40.5"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": {
+      "jpn": "ポッポ",
+      "eng": "Pidgey",
+      "ger": "Taubsi",
+      "fra": "Roucool",
+      "kor": "구구",
+      "chs": "波波",
+      "cht": "波波"
+    },
+    "classification": "ことりポケモン",
+    "height": "0.3",
+    "weight": "1.8"
+  },
+  {
+    "id": 17,
+    "name": {
+      "jpn": "ピジョン",
+      "eng": "Pidgeotto",
+      "ger": "Tauboga",
+      "fra": "Roucoups",
+      "kor": "피죤",
+      "chs": "比比鸟",
+      "cht": "比比鳥"
+    },
+    "classification": "とりポケモン",
+    "height": "1.1",
+    "weight": "30.0"
+  },
+  {
+    "id": 18,
+    "name": {
+      "jpn": "ピジョット",
+      "eng": "Pidgeot",
+      "ger": "Tauboss",
+      "fra": "Roucarnage",
+      "kor": "피죤투",
+      "chs": "大比鸟",
+      "cht": "大比鳥"
+    },
+    "classification": "とりポケモン",
+    "height": "1.5",
+    "weight": "39.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガピジョット",
+          "en": "MegaPidgeot"
+        },
+        "height": "2.2",
+        "weight": "50.5"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": {
+      "jpn": "コラッタ",
+      "eng": "Rattata",
+      "ger": "Rattfratz",
+      "fra": "Rattata",
+      "kor": "꼬렛",
+      "chs": "小拉达",
+      "cht": "小拉達"
+    },
+    "classification": "ねずみポケモン",
+    "height": "0.3",
+    "weight": "3.5",
+    "region_form": {
+      "alola": {
+        "height": "0.3",
+        "weight": "3.8"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": {
+      "jpn": "ラッタ",
+      "eng": "Raticate",
+      "ger": "Rattikarl",
+      "fra": "Rattatac",
+      "kor": "레트라",
+      "chs": "拉达",
+      "cht": "拉達"
+    },
+    "classification": "ねずみポケモン",
+    "height": "0.7",
+    "weight": "18.5",
+    "region_form": {
+      "alola": {
+        "height": "0.7",
+        "weight": "25.5"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": {
+      "jpn": "オニスズメ",
+      "eng": "Spearow",
+      "ger": "Habitak",
+      "fra": "Piafabec",
+      "kor": "깨비참",
+      "chs": "烈雀",
+      "cht": "烈雀"
+    },
+    "classification": "ことりポケモン",
+    "height": "0.3",
+    "weight": "2.0"
+  },
+  {
+    "id": 22,
+    "name": {
+      "jpn": "オニドリル",
+      "eng": "Fearow",
+      "ger": "Ibitak",
+      "fra": "Rapasdepic",
+      "kor": "깨비드릴조",
+      "chs": "大嘴雀",
+      "cht": "大嘴雀"
+    },
+    "classification": "くちばしポケモン",
+    "height": "1.2",
+    "weight": "38.0"
+  },
+  {
+    "id": 23,
+    "name": {
+      "jpn": "アーボ",
+      "eng": "Ekans",
+      "ger": "Rettan",
+      "fra": "Abo",
+      "kor": "아보",
+      "chs": "阿柏蛇",
+      "cht": "阿柏蛇"
+    },
+    "classification": "へびポケモン",
+    "height": "2.0",
+    "weight": "6.9"
+  },
+  {
+    "id": 24,
+    "name": {
+      "jpn": "アーボック",
+      "eng": "Arbok",
+      "ger": "Arbok",
+      "fra": "Arbok",
+      "kor": "아보크",
+      "chs": "阿柏怪",
+      "cht": "阿柏怪"
+    },
+    "classification": "コブラポケモン",
+    "height": "3.5",
+    "weight": "65.0"
+  },
+  {
+    "id": 25,
+    "name": {
+      "jpn": "ピカチュウ",
+      "eng": "Pikachu",
+      "ger": "Pikachu",
+      "fra": "Pikachu",
+      "kor": "피카츄",
+      "chs": "皮卡丘",
+      "cht": "皮卡丘"
+    },
+    "classification": "ねずみポケモン",
+    "height": "0.4",
+    "weight": "6.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスピカチュウ",
+          "en": "GigantamaxPikachu"
+        },
+        "height": "21.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": {
+      "jpn": "ライチュウ",
+      "eng": "Raichu",
+      "ger": "Raichu",
+      "fra": "Raichu",
+      "kor": "라이츄",
+      "chs": "雷丘",
+      "cht": "雷丘"
+    },
+    "classification": "ねずみポケモン",
+    "height": "0.8",
+    "weight": "30.0",
+    "region_form": {
+      "alola": {
+        "height": "0.7",
+        "weight": "21.0"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": {
+      "jpn": "サンド",
+      "eng": "Sandshrew",
+      "ger": "Sandan",
+      "fra": "Sabelette",
+      "kor": "모래두지",
+      "chs": "穿山鼠",
+      "cht": "穿山鼠"
+    },
+    "classification": "ねずみポケモン",
+    "height": "0.6",
+    "weight": "12.0",
+    "region_form": {
+      "alola": {
+        "height": "0.7",
+        "weight": "40.0"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": {
+      "jpn": "サンドパン",
+      "eng": "Sandslash",
+      "ger": "Sandamer",
+      "fra": "Sablaireau",
+      "kor": "고지",
+      "chs": "穿山王",
+      "cht": "穿山王"
+    },
+    "classification": "ねずみポケモン",
+    "height": "1.0",
+    "weight": "29.5",
+    "region_form": {
+      "alola": {
+        "height": "1.2",
+        "weight": "55.0"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": {
+      "jpn": "ニドラン♀",
+      "eng": "Nidoran♀",
+      "ger": "Nidoran♀",
+      "fra": "Nidoran♀",
+      "kor": "니드런♀",
+      "chs": "尼多兰",
+      "cht": "尼多蘭"
+    },
+    "classification": "どくばりポケモン",
+    "height": "0.4",
+    "weight": "7.0"
+  },
+  {
+    "id": 30,
+    "name": {
+      "jpn": "ニドリーナ",
+      "eng": "Nidorina",
+      "ger": "Nidorina",
+      "fra": "Nidorina",
+      "kor": "니드리나",
+      "chs": "尼多娜",
+      "cht": "尼多娜"
+    },
+    "classification": "どくばりポケモン",
+    "height": "0.8",
+    "weight": "20.0"
+  },
+  {
+    "id": 31,
+    "name": {
+      "jpn": "ニドクイン",
+      "eng": "Nidoqueen",
+      "ger": "Nidoqueen",
+      "fra": "Nidoqueen",
+      "kor": "니드퀸",
+      "chs": "尼多后",
+      "cht": "尼多后"
+    },
+    "classification": "ドリルポケモン",
+    "height": "1.3",
+    "weight": "60.0"
+  },
+  {
+    "id": 32,
+    "name": {
+      "jpn": "ニドラン♂",
+      "eng": "Nidoran♂",
+      "ger": "Nidoran♂",
+      "fra": "Nidoran♂",
+      "kor": "니드런♂",
+      "chs": "尼多朗",
+      "cht": "尼多朗"
+    },
+    "classification": "どくばりポケモン",
+    "height": "0.5",
+    "weight": "9.0"
+  },
+  {
+    "id": 33,
+    "name": {
+      "jpn": "ニドリーノ",
+      "eng": "Nidorino",
+      "ger": "Nidorino",
+      "fra": "Nidorino",
+      "kor": "니드리노",
+      "chs": "尼多力诺",
+      "cht": "尼多力諾"
+    },
+    "classification": "どくばりポケモン",
+    "height": "0.9",
+    "weight": "19.5"
+  },
+  {
+    "id": 34,
+    "name": {
+      "jpn": "ニドキング",
+      "eng": "Nidoking",
+      "ger": "Nidoking",
+      "fra": "Nidoking",
+      "kor": "니드킹",
+      "chs": "尼多王",
+      "cht": "尼多王"
+    },
+    "classification": "ドリルポケモン",
+    "height": "1.4",
+    "weight": "62.0"
+  },
+  {
+    "id": 35,
+    "name": {
+      "jpn": "ピッピ",
+      "eng": "Clefairy",
+      "ger": "Piepi",
+      "fra": "Melofee",
+      "kor": "삐삐",
+      "chs": "皮皮",
+      "cht": "皮皮"
+    },
+    "classification": "ようせいポケモン",
+    "height": "0.6",
+    "weight": "7.5"
+  },
+  {
+    "id": 36,
+    "name": {
+      "jpn": "ピクシー",
+      "eng": "Clefable",
+      "ger": "Pixi",
+      "fra": "Melodelfe",
+      "kor": "픽시",
+      "chs": "皮可西",
+      "cht": "皮可西"
+    },
+    "classification": "ようせいポケモン",
+    "height": "1.3",
+    "weight": "40.0"
+  },
+  {
+    "id": 37,
+    "name": {
+      "jpn": "ロコン",
+      "eng": "Vulpix",
+      "ger": "Vulpix",
+      "fra": "Goupix",
+      "kor": "식스테일",
+      "chs": "六尾",
+      "cht": "六尾"
+    },
+    "classification": "きつねポケモン",
+    "height": "0.6",
+    "weight": "9.9",
+    "region_form": {
+      "alola": {
+        "height": "0.6",
+        "weight": "9.9"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": {
+      "jpn": "キュウコン",
+      "eng": "Ninetales",
+      "ger": "Vulnona",
+      "fra": "Feunard",
+      "kor": "나인테일",
+      "chs": "九尾",
+      "cht": "九尾"
+    },
+    "classification": "きつねポケモン",
+    "height": "1.1",
+    "weight": "19.9",
+    "region_form": {
+      "alola": {
+        "height": "1.1",
+        "weight": "19.9"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": {
+      "jpn": "プリン",
+      "eng": "Jigglypuff",
+      "ger": "Pummeluff",
+      "fra": "Rondoudou",
+      "kor": "푸린",
+      "chs": "胖丁",
+      "cht": "胖丁"
+    },
+    "classification": "ふうせんポケモン",
+    "height": "0.5",
+    "weight": "5.5"
+  },
+  {
+    "id": 40,
+    "name": {
+      "jpn": "プクリン",
+      "eng": "Wigglytuff",
+      "ger": "Knuddeluff",
+      "fra": "Grodoudou",
+      "kor": "푸크린",
+      "chs": "胖可丁",
+      "cht": "胖可丁"
+    },
+    "classification": "ふうせんポケモン",
+    "height": "1.0",
+    "weight": "12.0"
+  },
+  {
+    "id": 41,
+    "name": {
+      "jpn": "ズバット",
+      "eng": "Zubat",
+      "ger": "Zubat",
+      "fra": "Nosferapti",
+      "kor": "주뱃",
+      "chs": "超音蝠",
+      "cht": "超音蝠"
+    },
+    "classification": "こうもりポケモン",
+    "height": "0.8",
+    "weight": "7.5"
+  },
+  {
+    "id": 42,
+    "name": {
+      "jpn": "ゴルバット",
+      "eng": "Golbat",
+      "ger": "Golbat",
+      "fra": "Nosferalto",
+      "kor": "골뱃",
+      "chs": "大嘴蝠",
+      "cht": "大嘴蝠"
+    },
+    "classification": "こうもりポケモン",
+    "height": "1.6",
+    "weight": "55.0"
+  },
+  {
+    "id": 43,
+    "name": {
+      "jpn": "ナゾノクサ",
+      "eng": "Oddish",
+      "ger": "Myrapla",
+      "fra": "Mystherbe",
+      "kor": "뚜벅쵸",
+      "chs": "走路草",
+      "cht": "走路草"
+    },
+    "classification": "ざっそうポケモン",
+    "height": "0.5",
+    "weight": "5.4"
+  },
+  {
+    "id": 44,
+    "name": {
+      "jpn": "クサイハナ",
+      "eng": "Gloom",
+      "ger": "Duflor",
+      "fra": "Ortide",
+      "kor": "냄새꼬",
+      "chs": "臭臭花",
+      "cht": "臭臭花"
+    },
+    "classification": "ざっそうポケモン",
+    "height": "0.8",
+    "weight": "8.6"
+  },
+  {
+    "id": 45,
+    "name": {
+      "jpn": "ラフレシア",
+      "eng": "Vileplume",
+      "ger": "Giflor",
+      "fra": "Rafflesia",
+      "kor": "라플레시아",
+      "chs": "霸王花",
+      "cht": "霸王花"
+    },
+    "classification": "フラワーポケモン",
+    "height": "1.2",
+    "weight": "18.6"
+  },
+  {
+    "id": 46,
+    "name": {
+      "jpn": "パラス",
+      "eng": "Paras",
+      "ger": "Paras",
+      "fra": "Paras",
+      "kor": "파라스",
+      "chs": "派拉斯",
+      "cht": "派拉斯"
+    },
+    "classification": "きのこポケモン",
+    "height": "0.3",
+    "weight": "5.4"
+  },
+  {
+    "id": 47,
+    "name": {
+      "jpn": "パラセクト",
+      "eng": "Parasect",
+      "ger": "Parasek",
+      "fra": "Parasect",
+      "kor": "파라섹트",
+      "chs": "派拉斯特",
+      "cht": "派拉斯特"
+    },
+    "classification": "きのこポケモン",
+    "height": "1.0",
+    "weight": "29.5"
+  },
+  {
+    "id": 48,
+    "name": {
+      "jpn": "コンパン",
+      "eng": "Venonat",
+      "ger": "Bluzuk",
+      "fra": "Mimitoss",
+      "kor": "콘팡",
+      "chs": "毛球",
+      "cht": "毛球"
+    },
+    "classification": "こんちゅうポケモン",
+    "height": "1.0",
+    "weight": "30.0"
+  },
+  {
+    "id": 49,
+    "name": {
+      "jpn": "モルフォン",
+      "eng": "Venomoth",
+      "ger": "Omot",
+      "fra": "Aeromite",
+      "kor": "도나리",
+      "chs": "摩鲁蛾",
+      "cht": "摩魯蛾"
+    },
+    "classification": "どくがポケモン",
+    "height": "1.5",
+    "weight": "12.5"
+  },
+  {
+    "id": 50,
+    "name": {
+      "jpn": "ディグダ",
+      "eng": "Diglett",
+      "ger": "Digda",
+      "fra": "Taupiqueur",
+      "kor": "디그다",
+      "chs": "地鼠",
+      "cht": "地鼠"
+    },
+    "classification": "もぐらポケモン",
+    "height": "0.2",
+    "weight": "0.8",
+    "region_form": {
+      "alola": {
+        "height": "0.2",
+        "weight": "1.0"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": {
+      "jpn": "ダグトリオ",
+      "eng": "Dugtrio",
+      "ger": "Digdri",
+      "fra": "Triopikeur",
+      "kor": "닥트리오",
+      "chs": "三地鼠",
+      "cht": "三地鼠"
+    },
+    "classification": "もぐらポケモン",
+    "height": "0.7",
+    "weight": "33.3",
+    "region_form": {
+      "alola": {
+        "height": "0.7",
+        "weight": "66.6"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": {
+      "jpn": "ニャース",
+      "eng": "Meowth",
+      "ger": "Mauzi",
+      "fra": "Miaouss",
+      "kor": "나옹",
+      "chs": "喵喵",
+      "cht": "喵喵"
+    },
+    "classification": "ばけねこポケモン",
+    "height": "0.4",
+    "weight": "4.2",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスニャース",
+          "en": "GigantamaxMeowth"
+        },
+        "height": "33.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": {
+      "jpn": "ペルシアン",
+      "eng": "Persian",
+      "ger": "Snobilikat",
+      "fra": "Persian",
+      "kor": "페르시온",
+      "chs": "猫老大",
+      "cht": "貓老大"
+    },
+    "classification": "シャムネコポケモン",
+    "height": "1.0",
+    "weight": "32.0"
+  },
+  {
+    "id": 54,
+    "name": {
+      "jpn": "コダック",
+      "eng": "Psyduck",
+      "ger": "Enton",
+      "fra": "Psykokwak",
+      "kor": "고라파덕",
+      "chs": "可达鸭",
+      "cht": "可達鴨"
+    },
+    "classification": "あひるポケモン",
+    "height": "0.8",
+    "weight": "19.6"
+  },
+  {
+    "id": 55,
+    "name": {
+      "jpn": "ゴルダック",
+      "eng": "Golduck",
+      "ger": "Entoron",
+      "fra": "Akwakwak",
+      "kor": "골덕",
+      "chs": "哥达鸭",
+      "cht": "哥達鴨"
+    },
+    "classification": "あひるポケモン",
+    "height": "1.7",
+    "weight": "76.6"
+  },
+  {
+    "id": 56,
+    "name": {
+      "jpn": "マンキー",
+      "eng": "Mankey",
+      "ger": "Menki",
+      "fra": "Ferosinge",
+      "kor": "망키",
+      "chs": "猴怪",
+      "cht": "猴怪"
+    },
+    "classification": "ぶたざるポケモン",
+    "height": "0.5",
+    "weight": "28.0"
+  },
+  {
+    "id": 57,
+    "name": {
+      "jpn": "オコリザル",
+      "eng": "Primeape",
+      "ger": "Rasaff",
+      "fra": "Colossinge",
+      "kor": "성원숭",
+      "chs": "火暴猴",
+      "cht": "火爆猴"
+    },
+    "classification": "ぶたざるポケモン",
+    "height": "1.0",
+    "weight": "32.0"
+  },
+  {
+    "id": 58,
+    "name": {
+      "jpn": "ガーディ",
+      "eng": "Growlithe",
+      "ger": "Fukano",
+      "fra": "Caninos",
+      "kor": "가디",
+      "chs": "卡蒂狗",
+      "cht": "卡蒂狗"
+    },
+    "classification": "こいぬポケモン",
+    "height": "0.7",
+    "weight": "19.0"
+  },
+  {
+    "id": 59,
+    "name": {
+      "jpn": "ウインディ",
+      "eng": "Arcanine",
+      "ger": "Arkani",
+      "fra": "Arcanin",
+      "kor": "윈디",
+      "chs": "风速狗",
+      "cht": "風速狗"
+    },
+    "classification": "でんせつポケモン",
+    "height": "1.9",
+    "weight": "155.0"
+  },
+  {
+    "id": 60,
+    "name": {
+      "jpn": "ニョロモ",
+      "eng": "Poliwag",
+      "ger": "Quapsel",
+      "fra": "Ptitard",
+      "kor": "발챙이",
+      "chs": "蚊香蝌蚪",
+      "cht": "蚊香蝌蚪"
+    },
+    "classification": "おたまポケモン",
+    "height": "0.6",
+    "weight": "12.4"
+  },
+  {
+    "id": 61,
+    "name": {
+      "jpn": "ニョロゾ",
+      "eng": "Poliwhirl",
+      "ger": "Quaputzi",
+      "fra": "Tetarte",
+      "kor": "수륙챙이",
+      "chs": "蚊香君",
+      "cht": "蚊香君"
+    },
+    "classification": "おたまポケモン",
+    "height": "1.0",
+    "weight": "20.0"
+  },
+  {
+    "id": 62,
+    "name": {
+      "jpn": "ニョロボン",
+      "eng": "Poliwrath",
+      "ger": "Quappo",
+      "fra": "Tartard",
+      "kor": "강챙이",
+      "chs": "蚊香泳士",
+      "cht": "蚊香泳士"
+    },
+    "classification": "おたまポケモン",
+    "height": "1.3",
+    "weight": "54.0"
+  },
+  {
+    "id": 63,
+    "name": {
+      "jpn": "ケーシィ",
+      "eng": "Abra",
+      "ger": "Abra",
+      "fra": "Abra",
+      "kor": "캐이시",
+      "chs": "凯西",
+      "cht": "凱西"
+    },
+    "classification": "ねんりきポケモン",
+    "height": "0.9",
+    "weight": "19.5"
+  },
+  {
+    "id": 64,
+    "name": {
+      "jpn": "ユンゲラー",
+      "eng": "Kadabra",
+      "ger": "Kadabra",
+      "fra": "Kadabra",
+      "kor": "윤겔라",
+      "chs": "勇基拉",
+      "cht": "勇基拉"
+    },
+    "classification": "ねんりきポケモン",
+    "height": "1.3",
+    "weight": "56.5"
+  },
+  {
+    "id": 65,
+    "name": {
+      "jpn": "フーディン",
+      "eng": "Alakazam",
+      "ger": "Simsala",
+      "fra": "Alakazam",
+      "kor": "후딘",
+      "chs": "胡地",
+      "cht": "胡地"
+    },
+    "classification": "ねんりきポケモン",
+    "height": "1.5",
+    "weight": "48.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガフーディン",
+          "en": "MegaAlakazam"
+        },
+        "height": "1.2",
+        "weight": "48.0"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": {
+      "jpn": "ワンリキー",
+      "eng": "Machop",
+      "ger": "Machollo",
+      "fra": "Machoc",
+      "kor": "알통몬",
+      "chs": "腕力",
+      "cht": "腕力"
+    },
+    "classification": "かいりきポケモン",
+    "height": "0.8",
+    "weight": "19.5"
+  },
+  {
+    "id": 67,
+    "name": {
+      "jpn": "ゴーリキー",
+      "eng": "Machoke",
+      "ger": "Maschock",
+      "fra": "Machopeur",
+      "kor": "근육몬",
+      "chs": "豪力",
+      "cht": "豪力"
+    },
+    "classification": "かいりきポケモン",
+    "height": "1.5",
+    "weight": "70.5"
+  },
+  {
+    "id": 68,
+    "name": {
+      "jpn": "カイリキー",
+      "eng": "Machamp",
+      "ger": "Machomei",
+      "fra": "Mackogneur",
+      "kor": "괴력몬",
+      "chs": "怪力",
+      "cht": "怪力"
+    },
+    "classification": "かいりきポケモン",
+    "height": "1.6",
+    "weight": "130.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスカイリキー",
+          "en": "GigantamaxMachamp"
+        },
+        "height": "25.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": {
+      "jpn": "マダツボミ",
+      "eng": "Bellsprout",
+      "ger": "Knofensa",
+      "fra": "Chetiflor",
+      "kor": "모다피",
+      "chs": "喇叭芽",
+      "cht": "喇叭芽"
+    },
+    "classification": "フラワーポケモン",
+    "height": "0.7",
+    "weight": "4.0"
+  },
+  {
+    "id": 70,
+    "name": {
+      "jpn": "ウツドン",
+      "eng": "Weepinbell",
+      "ger": "Ultrigaria",
+      "fra": "Boustiflor",
+      "kor": "우츠동",
+      "chs": "口呆花",
+      "cht": "口呆花"
+    },
+    "classification": "ハエとりポケモン",
+    "height": "1.0",
+    "weight": "6.4"
+  },
+  {
+    "id": 71,
+    "name": {
+      "jpn": "ウツボット",
+      "eng": "Victreebel",
+      "ger": "Sarzenia",
+      "fra": "Empiflor",
+      "kor": "우츠보트",
+      "chs": "大食花",
+      "cht": "大食花"
+    },
+    "classification": "ハエとりポケモン",
+    "height": "1.7",
+    "weight": "15.5"
+  },
+  {
+    "id": 72,
+    "name": {
+      "jpn": "メノクラゲ",
+      "eng": "Tentacool",
+      "ger": "Tentacha",
+      "fra": "Tentacool",
+      "kor": "왕눈해",
+      "chs": "玛瑙水母",
+      "cht": "瑪瑙水母"
+    },
+    "classification": "くらげポケモン",
+    "height": "0.9",
+    "weight": "45.5"
+  },
+  {
+    "id": 73,
+    "name": {
+      "jpn": "ドククラゲ",
+      "eng": "Tentacruel",
+      "ger": "Tentoxa",
+      "fra": "Tentacruel",
+      "kor": "독파리",
+      "chs": "毒刺水母",
+      "cht": "毒刺水母"
+    },
+    "classification": "くらげポケモン",
+    "height": "1.6",
+    "weight": "55.0"
+  },
+  {
+    "id": 74,
+    "name": {
+      "jpn": "イシツブテ",
+      "eng": "Geodude",
+      "ger": "Kleinstein",
+      "fra": "Racaillou",
+      "kor": "꼬마돌",
+      "chs": "小拳石",
+      "cht": "小拳石"
+    },
+    "classification": "がんせきポケモン",
+    "height": "0.4",
+    "weight": "20.0",
+    "region_form": {
+      "alola": {
+        "height": "0.4",
+        "weight": "20.3"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "name": {
+      "jpn": "ゴローン",
+      "eng": "Graveler",
+      "ger": "Georok",
+      "fra": "Gravalanch",
+      "kor": "데구리",
+      "chs": "隆隆石",
+      "cht": "隆隆石"
+    },
+    "classification": "がんせきポケモン",
+    "height": "1.0",
+    "weight": "105.0",
+    "region_form": {
+      "alola": {
+        "height": "1.0",
+        "weight": "110.0"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "name": {
+      "jpn": "ゴローニャ",
+      "eng": "Golem",
+      "ger": "Geowaz",
+      "fra": "Grolem",
+      "kor": "딱구리",
+      "chs": "隆隆岩",
+      "cht": "隆隆岩"
+    },
+    "classification": "メガトンポケモン",
+    "height": "1.4",
+    "weight": "300.0",
+    "region_form": {
+      "alola": {
+        "height": "1.7",
+        "weight": "316.0"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "name": {
+      "jpn": "ポニータ",
+      "eng": "Ponyta",
+      "ger": "Ponita",
+      "fra": "Ponyta",
+      "kor": "포니타",
+      "chs": "小火马",
+      "cht": "小火馬"
+    },
+    "classification": "ひのうまポケモン",
+    "height": "1.0",
+    "weight": "30.0"
+  },
+  {
+    "id": 78,
+    "name": {
+      "jpn": "ギャロップ",
+      "eng": "Rapidash",
+      "ger": "Gallopa",
+      "fra": "Galopa",
+      "kor": "날쌩마",
+      "chs": "烈焰马",
+      "cht": "烈焰馬"
+    },
+    "classification": "ひのうまポケモン",
+    "height": "1.7",
+    "weight": "95.0"
+  },
+  {
+    "id": 79,
+    "name": {
+      "jpn": "ヤドン",
+      "eng": "Slowpoke",
+      "ger": "Flegmon",
+      "fra": "Ramoloss",
+      "kor": "야돈",
+      "chs": "呆呆兽",
+      "cht": "呆呆獸"
+    },
+    "classification": "まぬけポケモン",
+    "height": "1.2",
+    "weight": "36.0"
+  },
+  {
+    "id": 80,
+    "name": {
+      "jpn": "ヤドラン",
+      "eng": "Slowbro",
+      "ger": "Lahmus",
+      "fra": "Flagadoss",
+      "kor": "야도란",
+      "chs": "呆壳兽",
+      "cht": "呆殼獸"
+    },
+    "classification": "やどかりポケモン",
+    "height": "1.6",
+    "weight": "78.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガヤドラン",
+          "en": "MegaSlowbro"
+        },
+        "height": "2.0",
+        "weight": "120.0"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": {
+      "jpn": "コイル",
+      "eng": "Magnemite",
+      "ger": "Magnetilo",
+      "fra": "Magneti",
+      "kor": "코일",
+      "chs": "小磁怪",
+      "cht": "小磁怪"
+    },
+    "classification": "じしゃくポケモン",
+    "height": "0.3",
+    "weight": "6.0"
+  },
+  {
+    "id": 82,
+    "name": {
+      "jpn": "レアコイル",
+      "eng": "Magneton",
+      "ger": "Magneton",
+      "fra": "Magneton",
+      "kor": "레어코일",
+      "chs": "三合一磁怪",
+      "cht": "三合一磁怪"
+    },
+    "classification": "じしゃくポケモン",
+    "height": "1.0",
+    "weight": "60.0"
+  },
+  {
+    "id": 83,
+    "name": {
+      "jpn": "カモネギ",
+      "eng": "Farfetch'd",
+      "ger": "Porenta",
+      "fra": "Canarticho",
+      "kor": "파오리",
+      "chs": "大葱鸭",
+      "cht": "大蔥鴨"
+    },
+    "classification": "かるがもポケモン",
+    "height": "0.8",
+    "weight": "15.0"
+  },
+  {
+    "id": 84,
+    "name": {
+      "jpn": "ドードー",
+      "eng": "Doduo",
+      "ger": "Dodu",
+      "fra": "Doduo",
+      "kor": "두두",
+      "chs": "嘟嘟",
+      "cht": "嘟嘟"
+    },
+    "classification": "ふたごどりポケモン",
+    "height": "1.4",
+    "weight": "39.2"
+  },
+  {
+    "id": 85,
+    "name": {
+      "jpn": "ドードリオ",
+      "eng": "Dodrio",
+      "ger": "Dodri",
+      "fra": "Dodrio",
+      "kor": "두트리오",
+      "chs": "嘟嘟利",
+      "cht": "嘟嘟利"
+    },
+    "classification": "みつごどりポケモン",
+    "height": "1.8",
+    "weight": "85.2"
+  },
+  {
+    "id": 86,
+    "name": {
+      "jpn": "パウワウ",
+      "eng": "Seel",
+      "ger": "Jurob",
+      "fra": "Otaria",
+      "kor": "쥬쥬",
+      "chs": "小海狮",
+      "cht": "小海獅"
+    },
+    "classification": "あしかポケモン",
+    "height": "1.1",
+    "weight": "90.0"
+  },
+  {
+    "id": 87,
+    "name": {
+      "jpn": "ジュゴン",
+      "eng": "Dewgong",
+      "ger": "Jugong",
+      "fra": "Lamantine",
+      "kor": "쥬레곤",
+      "chs": "白海狮",
+      "cht": "白海獅"
+    },
+    "classification": "あしかポケモン",
+    "height": "1.7",
+    "weight": "120.0"
+  },
+  {
+    "id": 88,
+    "name": {
+      "jpn": "ベトベター",
+      "eng": "Grimer",
+      "ger": "Sleima",
+      "fra": "Tadmorv",
+      "kor": "질퍽이",
+      "chs": "臭泥",
+      "cht": "臭泥"
+    },
+    "classification": "ヘドロポケモン",
+    "height": "0.9",
+    "weight": "30.0",
+    "region_form": {
+      "alola": {
+        "height": "0.7",
+        "weight": "42.0"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "name": {
+      "jpn": "ベトベトン",
+      "eng": "Muk",
+      "ger": "Sleimok",
+      "fra": "Grotadmorv",
+      "kor": "질뻐기",
+      "chs": "臭臭泥",
+      "cht": "臭臭泥"
+    },
+    "classification": "ヘドロポケモン",
+    "height": "1.2",
+    "weight": "30.0",
+    "region_form": {
+      "alola": {
+        "height": "1.0",
+        "weight": "52.0"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "name": {
+      "jpn": "シェルダー",
+      "eng": "Shellder",
+      "ger": "Muschas",
+      "fra": "Kokiyas",
+      "kor": "셀러",
+      "chs": "大舌贝",
+      "cht": "大舌貝"
+    },
+    "classification": "2まいがいポケモン",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "id": 91,
+    "name": {
+      "jpn": "パルシェン",
+      "eng": "Cloyster",
+      "ger": "Austos",
+      "fra": "Crustabri",
+      "kor": "파르셀",
+      "chs": "刺甲贝",
+      "cht": "刺甲貝"
+    },
+    "classification": "2まいがいポケモン",
+    "height": "1.5",
+    "weight": "132.5"
+  },
+  {
+    "id": 92,
+    "name": {
+      "jpn": "ゴース",
+      "eng": "Gastly",
+      "ger": "Nebulak",
+      "fra": "Fantominus",
+      "kor": "고오스",
+      "chs": "鬼斯",
+      "cht": "鬼斯"
+    },
+    "classification": "ガスじょうポケモン",
+    "height": "1.3",
+    "weight": "0.1"
+  },
+  {
+    "id": 93,
+    "name": {
+      "jpn": "ゴースト",
+      "eng": "Haunter",
+      "ger": "Alpollo",
+      "fra": "Spectrum",
+      "kor": "고우스트",
+      "chs": "鬼斯通",
+      "cht": "鬼斯通"
+    },
+    "classification": "ガスじょうポケモン",
+    "height": "1.6",
+    "weight": "0.1"
+  },
+  {
+    "id": 94,
+    "name": {
+      "jpn": "ゲンガー",
+      "eng": "Gengar",
+      "ger": "Gengar",
+      "fra": "Ectoplasma",
+      "kor": "팬텀",
+      "chs": "耿鬼",
+      "cht": "耿鬼"
+    },
+    "classification": "シャドーポケモン",
+    "height": "1.5",
+    "weight": "40.5",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガゲンガー",
+          "en": "MegaGengar"
+        },
+        "height": "1.4",
+        "weight": "40.5"
+      }
+    ],
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスゲンガー",
+          "en": "GigantamaxGengar"
+        },
+        "height": "20.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": {
+      "jpn": "イワーク",
+      "eng": "Onix",
+      "ger": "Onix",
+      "fra": "Onix",
+      "kor": "롱스톤",
+      "chs": "大岩蛇",
+      "cht": "大岩蛇"
+    },
+    "classification": "いわへびポケモン",
+    "height": "8.8",
+    "weight": "210.0"
+  },
+  {
+    "id": 96,
+    "name": {
+      "jpn": "スリープ",
+      "eng": "Drowzee",
+      "ger": "Traumato",
+      "fra": "Soporifik",
+      "kor": "슬리프",
+      "chs": "催眠貘",
+      "cht": "催眠貘"
+    },
+    "classification": "さいみんポケモン",
+    "height": "1.0",
+    "weight": "32.4"
+  },
+  {
+    "id": 97,
+    "name": {
+      "jpn": "スリーパー",
+      "eng": "Hypno",
+      "ger": "Hypno",
+      "fra": "Hypnomade",
+      "kor": "슬리퍼",
+      "chs": "引梦貘人",
+      "cht": "引夢貘人"
+    },
+    "classification": "さいみんポケモン",
+    "height": "1.6",
+    "weight": "75.6"
+  },
+  {
+    "id": 98,
+    "name": {
+      "jpn": "クラブ",
+      "eng": "Krabby",
+      "ger": "Krabby",
+      "fra": "Krabby",
+      "kor": "크랩",
+      "chs": "大钳蟹",
+      "cht": "大鉗蟹"
+    },
+    "classification": "さわがにポケモン",
+    "height": "0.4",
+    "weight": "6.5"
+  },
+  {
+    "id": 99,
+    "name": {
+      "jpn": "キングラー",
+      "eng": "Kingler",
+      "ger": "Kingler",
+      "fra": "Krabboss",
+      "kor": "킹크랩",
+      "chs": "巨钳蟹",
+      "cht": "巨鉗蟹"
+    },
+    "classification": "はさみポケモン",
+    "height": "1.3",
+    "weight": "60.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスキングラー",
+          "en": "GigantamaxKingler"
+        },
+        "height": "19.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": {
+      "jpn": "ビリリダマ",
+      "eng": "Voltorb",
+      "ger": "Voltobal",
+      "fra": "Voltorbe",
+      "kor": "찌리리공",
+      "chs": "霹雳电球",
+      "cht": "霹靂電球"
+    },
+    "classification": "ボールポケモン",
+    "height": "0.5",
+    "weight": "10.4"
+  },
+  {
+    "id": 101,
+    "name": {
+      "jpn": "マルマイン",
+      "eng": "Electrode",
+      "ger": "Lektrobal",
+      "fra": "Electrode",
+      "kor": "붐볼",
+      "chs": "顽皮雷弹",
+      "cht": "頑皮雷彈"
+    },
+    "classification": "ボールポケモン",
+    "height": "1.2",
+    "weight": "66.6"
+  },
+  {
+    "id": 102,
+    "name": {
+      "jpn": "タマタマ",
+      "eng": "Exeggcute",
+      "ger": "Owei",
+      "fra": "Noeunoeuf",
+      "kor": "아라리",
+      "chs": "蛋蛋",
+      "cht": "蛋蛋"
+    },
+    "classification": "たまごポケモン",
+    "height": "0.4",
+    "weight": "2.5"
+  },
+  {
+    "id": 103,
+    "name": {
+      "jpn": "ナッシー",
+      "eng": "Exeggutor",
+      "ger": "Kokowei",
+      "fra": "Noadkoko",
+      "kor": "나시",
+      "chs": "椰蛋树",
+      "cht": "椰蛋樹"
+    },
+    "classification": "やしのみポケモン",
+    "height": "2.0",
+    "weight": "120.0",
+    "region_form": {
+      "alola": {
+        "height": "10.9",
+        "weight": "415.6"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "name": {
+      "jpn": "カラカラ",
+      "eng": "Cubone",
+      "ger": "Tragosso",
+      "fra": "Osselait",
+      "kor": "탕구리",
+      "chs": "卡拉卡拉",
+      "cht": "卡拉卡拉"
+    },
+    "classification": "こどくポケモン",
+    "height": "0.4",
+    "weight": "6.5"
+  },
+  {
+    "id": 105,
+    "name": {
+      "jpn": "ガラガラ",
+      "eng": "Marowak",
+      "ger": "Knogga",
+      "fra": "Ossatueur",
+      "kor": "텅구리",
+      "chs": "嘎啦嘎啦",
+      "cht": "嘎啦嘎啦"
+    },
+    "classification": "ほねずきポケモン",
+    "height": "1.0",
+    "weight": "45.0",
+    "region_form": {
+      "alola": {
+        "height": "1.0",
+        "weight": "34.0"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "name": {
+      "jpn": "サワムラー",
+      "eng": "Hitmonlee",
+      "ger": "Kicklee",
+      "fra": "Kicklee",
+      "kor": "시라소몬",
+      "chs": "飞腿郎",
+      "cht": "飛腿郎"
+    },
+    "classification": "キックポケモン",
+    "height": "1.5",
+    "weight": "49.8"
+  },
+  {
+    "id": 107,
+    "name": {
+      "jpn": "エビワラー",
+      "eng": "Hitmonchan",
+      "ger": "Nockchan",
+      "fra": "Tygnon",
+      "kor": "홍수몬",
+      "chs": "快拳郎",
+      "cht": "快拳郎"
+    },
+    "classification": "パンチポケモン",
+    "height": "1.4",
+    "weight": "50.2"
+  },
+  {
+    "id": 108,
+    "name": {
+      "jpn": "ベロリンガ",
+      "eng": "Lickitung",
+      "ger": "Schlurp",
+      "fra": "Excelangue",
+      "kor": "내루미",
+      "chs": "大舌头",
+      "cht": "大舌頭"
+    },
+    "classification": "なめまわしポケモン",
+    "height": "1.2",
+    "weight": "65.5"
+  },
+  {
+    "id": 109,
+    "name": {
+      "jpn": "ドガース",
+      "eng": "Koffing",
+      "ger": "Smogon",
+      "fra": "Smogo",
+      "kor": "또가스",
+      "chs": "瓦斯弹",
+      "cht": "瓦斯彈"
+    },
+    "classification": "どくガスポケモン",
+    "height": "0.6",
+    "weight": "1.0"
+  },
+  {
+    "id": 110,
+    "name": {
+      "jpn": "マタドガス",
+      "eng": "Weezing",
+      "ger": "Smogmog",
+      "fra": "Smogogo",
+      "kor": "또도가스",
+      "chs": "双弹瓦斯",
+      "cht": "雙彈瓦斯"
+    },
+    "classification": "どくガスポケモン",
+    "height": "1.2",
+    "weight": "9.5"
+  },
+  {
+    "id": 111,
+    "name": {
+      "jpn": "サイホーン",
+      "eng": "Rhyhorn",
+      "ger": "Rihorn",
+      "fra": "Rhinocorne",
+      "kor": "뿔카노",
+      "chs": "独角犀牛",
+      "cht": "獨角犀牛"
+    },
+    "classification": "とげとげポケモン",
+    "height": "1.0",
+    "weight": "115.0"
+  },
+  {
+    "id": 112,
+    "name": {
+      "jpn": "サイドン",
+      "eng": "Rhydon",
+      "ger": "Rizeros",
+      "fra": "Rhinoferos",
+      "kor": "코뿌리",
+      "chs": "钻角犀兽",
+      "cht": "鑽角犀獸"
+    },
+    "classification": "ドリルポケモン",
+    "height": "1.9",
+    "weight": "120.0"
+  },
+  {
+    "id": 113,
+    "name": {
+      "jpn": "ラッキー",
+      "eng": "Chansey",
+      "ger": "Chaneira",
+      "fra": "Leveinard",
+      "kor": "럭키",
+      "chs": "吉利蛋",
+      "cht": "吉利蛋"
+    },
+    "classification": "たまごポケモン",
+    "height": "1.1",
+    "weight": "34.6"
+  },
+  {
+    "id": 114,
+    "name": {
+      "jpn": "モンジャラ",
+      "eng": "Tangela",
+      "ger": "Tangela",
+      "fra": "Saquedeneu",
+      "kor": "덩구리",
+      "chs": "蔓藤怪",
+      "cht": "蔓藤怪"
+    },
+    "classification": "ツルじょうポケモン",
+    "height": "1.0",
+    "weight": "35.0"
+  },
+  {
+    "id": 115,
+    "name": {
+      "jpn": "ガルーラ",
+      "eng": "Kangaskhan",
+      "ger": "Kangama",
+      "fra": "Kangourex",
+      "kor": "캥카",
+      "chs": "袋兽",
+      "cht": "袋獸"
+    },
+    "classification": "おやこポケモン",
+    "height": "2.2",
+    "weight": "80.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガガルーラ",
+          "en": "MegaKangaskhan"
+        },
+        "height": "2.2",
+        "weight": "100.0"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": {
+      "jpn": "タッツー",
+      "eng": "Horsea",
+      "ger": "Seeper",
+      "fra": "Hypotrempe",
+      "kor": "쏘드라",
+      "chs": "墨海马",
+      "cht": "墨海馬"
+    },
+    "classification": "ドラゴンポケモン",
+    "height": "0.4",
+    "weight": "8.0"
+  },
+  {
+    "id": 117,
+    "name": {
+      "jpn": "シードラ",
+      "eng": "Seadra",
+      "ger": "Seemon",
+      "fra": "Hypocean",
+      "kor": "시드라",
+      "chs": "海刺龙",
+      "cht": "海刺龍"
+    },
+    "classification": "ドラゴンポケモン",
+    "height": "1.2",
+    "weight": "25.0"
+  },
+  {
+    "id": 118,
+    "name": {
+      "jpn": "トサキント",
+      "eng": "Goldeen",
+      "ger": "Goldini",
+      "fra": "Poissirene",
+      "kor": "콘치",
+      "chs": "角金鱼",
+      "cht": "角金魚"
+    },
+    "classification": "きんぎょポケモン",
+    "height": "0.6",
+    "weight": "15.0"
+  },
+  {
+    "id": 119,
+    "name": {
+      "jpn": "アズマオウ",
+      "eng": "Seaking",
+      "ger": "Golking",
+      "fra": "Poissoroy",
+      "kor": "왕콘치",
+      "chs": "金鱼王",
+      "cht": "金魚王"
+    },
+    "classification": "きんぎょポケモン",
+    "height": "1.3",
+    "weight": "39.0"
+  },
+  {
+    "id": 120,
+    "name": {
+      "jpn": "ヒトデマン",
+      "eng": "Staryu",
+      "ger": "Sterndu",
+      "fra": "Stari",
+      "kor": "별가사리",
+      "chs": "海星星",
+      "cht": "海星星"
+    },
+    "classification": "ほしがたポケモン",
+    "height": "0.8",
+    "weight": "34.5"
+  },
+  {
+    "id": 121,
+    "name": {
+      "jpn": "スターミー",
+      "eng": "Starmie",
+      "ger": "Starmie",
+      "fra": "Staross",
+      "kor": "아쿠스타",
+      "chs": "宝石海星",
+      "cht": "寶石海星"
+    },
+    "classification": "なぞのポケモン",
+    "height": "1.1",
+    "weight": "80.0"
+  },
+  {
+    "id": 122,
+    "name": {
+      "jpn": "バリヤード",
+      "eng": "Mr.Mime",
+      "ger": "Pantimos",
+      "fra": "M.Mime",
+      "kor": "마임맨",
+      "chs": "魔墙人偶",
+      "cht": "魔牆人偶"
+    },
+    "classification": "バリアーポケモン",
+    "height": "1.3",
+    "weight": "54.5"
+  },
+  {
+    "id": 123,
+    "name": {
+      "jpn": "ストライク",
+      "eng": "Scyther",
+      "ger": "Sichlor",
+      "fra": "Insecateur",
+      "kor": "스라크",
+      "chs": "飞天螳螂",
+      "cht": "飛天螳螂"
+    },
+    "classification": "かまきりポケモン",
+    "height": "1.5",
+    "weight": "56.0"
+  },
+  {
+    "id": 124,
+    "name": {
+      "jpn": "ルージュラ",
+      "eng": "Jynx",
+      "ger": "Rossana",
+      "fra": "Lippoutou",
+      "kor": "루주라",
+      "chs": "迷唇姐",
+      "cht": "迷唇姐"
+    },
+    "classification": "ひとがたポケモン",
+    "height": "1.4",
+    "weight": "40.6"
+  },
+  {
+    "id": 125,
+    "name": {
+      "jpn": "エレブー",
+      "eng": "Electabuzz",
+      "ger": "Elektek",
+      "fra": "Elektek",
+      "kor": "에레브",
+      "chs": "电击兽",
+      "cht": "電擊獸"
+    },
+    "classification": "でんげきポケモン",
+    "height": "1.1",
+    "weight": "30.0"
+  },
+  {
+    "id": 126,
+    "name": {
+      "jpn": "ブーバー",
+      "eng": "Magmar",
+      "ger": "Magmar",
+      "fra": "Magmar",
+      "kor": "마그마",
+      "chs": "鸭嘴火兽",
+      "cht": "鴨嘴火獸"
+    },
+    "classification": "ひふきポケモン",
+    "height": "1.3",
+    "weight": "44.5"
+  },
+  {
+    "id": 127,
+    "name": {
+      "jpn": "カイロス",
+      "eng": "Pinsir",
+      "ger": "Pinsir",
+      "fra": "Scarabrute",
+      "kor": "쁘사이저",
+      "chs": "凯罗斯",
+      "cht": "凱羅斯"
+    },
+    "classification": "くわがたポケモン",
+    "height": "1.5",
+    "weight": "55.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガカイロス",
+          "en": "MegaPinsir"
+        },
+        "height": "1.7",
+        "weight": "59.0"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": {
+      "jpn": "ケンタロス",
+      "eng": "Tauros",
+      "ger": "Tauros",
+      "fra": "Tauros",
+      "kor": "켄타로스",
+      "chs": "肯泰罗",
+      "cht": "肯泰羅"
+    },
+    "classification": "あばれうしポケモン",
+    "height": "1.4",
+    "weight": "88.4"
+  },
+  {
+    "id": 129,
+    "name": {
+      "jpn": "コイキング",
+      "eng": "Magikarp",
+      "ger": "Karpador",
+      "fra": "Magicarpe",
+      "kor": "잉어킹",
+      "chs": "鲤鱼王",
+      "cht": "鯉魚王"
+    },
+    "classification": "さかなポケモン",
+    "height": "0.9",
+    "weight": "10.0"
+  },
+  {
+    "id": 130,
+    "name": {
+      "jpn": "ギャラドス",
+      "eng": "Gyarados",
+      "ger": "Garados",
+      "fra": "Leviator",
+      "kor": "갸라도스",
+      "chs": "暴鲤龙",
+      "cht": "暴鯉龍"
+    },
+    "classification": "きょうあくポケモン",
+    "height": "6.5",
+    "weight": "235.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガギャラドス",
+          "en": "MegaGyarados"
+        },
+        "height": "6.5",
+        "weight": "305.0"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": {
+      "jpn": "ラプラス",
+      "eng": "Lapras",
+      "ger": "Lapras",
+      "fra": "Lokhlass",
+      "kor": "라프라스",
+      "chs": "拉普拉斯",
+      "cht": "拉普拉斯"
+    },
+    "classification": "のりものポケモン",
+    "height": "2.5",
+    "weight": "220.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスラプラス",
+          "en": "GigantamaxLapras"
+        },
+        "height": "24.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": {
+      "jpn": "メタモン",
+      "eng": "Ditto",
+      "ger": "Ditto",
+      "fra": "Metamorph",
+      "kor": "메타몽",
+      "chs": "百变怪",
+      "cht": "百變怪"
+    },
+    "classification": "へんしんポケモン",
+    "height": "0.3",
+    "weight": "4.0"
+  },
+  {
+    "id": 133,
+    "name": {
+      "jpn": "イーブイ",
+      "eng": "Eevee",
+      "ger": "Evoli",
+      "fra": "Evoli",
+      "kor": "이브이",
+      "chs": "伊布",
+      "cht": "伊布"
+    },
+    "classification": "しんかポケモン",
+    "height": "0.3",
+    "weight": "6.5",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスイーブイ",
+          "en": "GigantamaxEevee"
+        },
+        "height": "18.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": {
+      "jpn": "シャワーズ",
+      "eng": "Vaporeon",
+      "ger": "Aquana",
+      "fra": "Aquali",
+      "kor": "샤미드",
+      "chs": "水伊布",
+      "cht": "水伊布"
+    },
+    "classification": "あわはきポケモン",
+    "height": "1.0",
+    "weight": "29.0"
+  },
+  {
+    "id": 135,
+    "name": {
+      "jpn": "サンダース",
+      "eng": "Jolteon",
+      "ger": "Blitza",
+      "fra": "Voltali",
+      "kor": "쥬피썬더",
+      "chs": "雷伊布",
+      "cht": "雷伊布"
+    },
+    "classification": "かみなりポケモン",
+    "height": "0.8",
+    "weight": "24.5"
+  },
+  {
+    "id": 136,
+    "name": {
+      "jpn": "ブースター",
+      "eng": "Flareon",
+      "ger": "Flamara",
+      "fra": "Pyroli",
+      "kor": "부스터",
+      "chs": "火伊布",
+      "cht": "火伊布"
+    },
+    "classification": "ほのおポケモン",
+    "height": "0.9",
+    "weight": "25.0"
+  },
+  {
+    "id": 137,
+    "name": {
+      "jpn": "ポリゴン",
+      "eng": "Porygon",
+      "ger": "Porygon",
+      "fra": "Porygon",
+      "kor": "폴리곤",
+      "chs": "多边兽",
+      "cht": "多邊獸"
+    },
+    "classification": "バーチャルポケモン",
+    "height": "0.8",
+    "weight": "36.5"
+  },
+  {
+    "id": 138,
+    "name": {
+      "jpn": "オムナイト",
+      "eng": "Omanyte",
+      "ger": "Amonitas",
+      "fra": "Amonita",
+      "kor": "암나이트",
+      "chs": "菊石兽",
+      "cht": "菊石獸"
+    },
+    "classification": "うずまきポケモン",
+    "height": "0.4",
+    "weight": "7.5"
+  },
+  {
+    "id": 139,
+    "name": {
+      "jpn": "オムスター",
+      "eng": "Omastar",
+      "ger": "Amoroso",
+      "fra": "Amonistar",
+      "kor": "암스타",
+      "chs": "多刺菊石兽",
+      "cht": "多刺菊石獸"
+    },
+    "classification": "うずまきポケモン",
+    "height": "1.0",
+    "weight": "35.0"
+  },
+  {
+    "id": 140,
+    "name": {
+      "jpn": "カブト",
+      "eng": "Kabuto",
+      "ger": "Kabuto",
+      "fra": "Kabuto",
+      "kor": "투구",
+      "chs": "化石盔",
+      "cht": "化石盔"
+    },
+    "classification": "こうらポケモン",
+    "height": "0.5",
+    "weight": "11.5"
+  },
+  {
+    "id": 141,
+    "name": {
+      "jpn": "カブトプス",
+      "eng": "Kabutops",
+      "ger": "Kabutops",
+      "fra": "Kabutops",
+      "kor": "투구푸스",
+      "chs": "镰刀盔",
+      "cht": "鐮刀盔"
+    },
+    "classification": "こうらポケモン",
+    "height": "1.3",
+    "weight": "40.5"
+  },
+  {
+    "id": 142,
+    "name": {
+      "jpn": "プテラ",
+      "eng": "Aerodactyl",
+      "ger": "Aerodactyl",
+      "fra": "Ptera",
+      "kor": "프테라",
+      "chs": "化石翼龙",
+      "cht": "化石翼龍"
+    },
+    "classification": "かせきポケモン",
+    "height": "1.8",
+    "weight": "59.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガプテラ",
+          "en": "MegaAerodactyl"
+        },
+        "height": "2.1",
+        "weight": "79.0"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": {
+      "jpn": "カビゴン",
+      "eng": "Snorlax",
+      "ger": "Relaxo",
+      "fra": "Ronflex",
+      "kor": "잠만보",
+      "chs": "卡比兽",
+      "cht": "卡比獸"
+    },
+    "classification": "いねむりポケモン",
+    "height": "2.1",
+    "weight": "460.0",
+    "gigantamax": [
+      {
+        "name": {
+          "ja": "キョダイマックスカビゴン",
+          "en": "GigantamaxSnorlax"
+        },
+        "height": "35.0",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": {
+      "jpn": "フリーザー",
+      "eng": "Articuno",
+      "ger": "Arktos",
+      "fra": "Artikodin",
+      "kor": "프리져",
+      "chs": "急冻鸟",
+      "cht": "急凍鳥"
+    },
+    "classification": "れいとうポケモン",
+    "height": "1.7",
+    "weight": "55.4"
+  },
+  {
+    "id": 145,
+    "name": {
+      "jpn": "サンダー",
+      "eng": "Zapdos",
+      "ger": "Zapdos",
+      "fra": "Electhor",
+      "kor": "썬더",
+      "chs": "闪电鸟",
+      "cht": "閃電鳥"
+    },
+    "classification": "でんげきポケモン",
+    "height": "1.6",
+    "weight": "52.6"
+  },
+  {
+    "id": 146,
+    "name": {
+      "jpn": "ファイヤー",
+      "eng": "Moltres",
+      "ger": "Lavados",
+      "fra": "Sulfura",
+      "kor": "파이어",
+      "chs": "火焰鸟",
+      "cht": "火焰鳥"
+    },
+    "classification": "かえんポケモン",
+    "height": "2.0",
+    "weight": "60.0"
+  },
+  {
+    "id": 147,
+    "name": {
+      "jpn": "ミニリュウ",
+      "eng": "Dratini",
+      "ger": "Dratini",
+      "fra": "Minidraco",
+      "kor": "미뇽",
+      "chs": "迷你龙",
+      "cht": "迷你龍"
+    },
+    "classification": "ドラゴンポケモン",
+    "height": "1.8",
+    "weight": "3.3"
+  },
+  {
+    "id": 148,
+    "name": {
+      "jpn": "ハクリュー",
+      "eng": "Dragonair",
+      "ger": "Dragonir",
+      "fra": "Draco",
+      "kor": "신뇽",
+      "chs": "哈克龙",
+      "cht": "哈克龍"
+    },
+    "classification": "ドラゴンポケモン",
+    "height": "4.0",
+    "weight": "16.5"
+  },
+  {
+    "id": 149,
+    "name": {
+      "jpn": "カイリュー",
+      "eng": "Dragonite",
+      "ger": "Dragoran",
+      "fra": "Dracolosse",
+      "kor": "망나뇽",
+      "chs": "快龙",
+      "cht": "快龍"
+    },
+    "classification": "ドラゴンポケモン",
+    "height": "2.2",
+    "weight": "210.0"
+  },
+  {
+    "id": 150,
+    "name": {
+      "jpn": "ミュウツー",
+      "eng": "Mewtwo",
+      "ger": "Mewtu",
+      "fra": "Mewtwo",
+      "kor": "뮤츠",
+      "chs": "超梦",
+      "cht": "超夢"
+    },
+    "classification": "いでんしポケモン",
+    "height": "2.0",
+    "weight": "122.0",
+    "mega_evolution": [
+      {
+        "name": {
+          "ja": "メガミュウツーX",
+          "en": "MegaMewtwoX"
+        },
+        "height": "2.3",
+        "weight": "127.0"
+      },
+      {
+        "name": {
+          "ja": "メガミュウツーY",
+          "en": "MegaMewtwoY"
+        },
+        "height": "1.5",
+        "weight": "33.0"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": {
+      "jpn": "ミュウ",
+      "eng": "Mew",
+      "ger": "Mew",
+      "fra": "Mew",
+      "kor": "뮤",
+      "chs": "梦幻",
+      "cht": "夢幻"
+    },
+    "classification": "しんしゅポケモン",
+    "height": "0.4",
+    "weight": "4.0"
+  }
+]
