@@ -14,13 +14,13 @@
 ランダムに３つのポケモンを選ぶアプリを作成しました。
 
 ### License
-(flutter_pokedex)[https://github.com/scitbiz/flutter_pokedex]
+[flutter_pokedex](https://github.com/scitbiz/flutter_pokedex)  
 ポケモンの名前リスト＋画像URL（Gen1のみ）を拝借しました。
 
-(pokedex)[https://github.com/towakey/pokedex]
+[pokedex](https://github.com/towakey/pokedex)  
 ポケモンの日本語名を拝借しました。
 
-(k8x12)[https://littlelimit.net/k8x12.htm]
+[k8x12](https://littlelimit.net/k8x12.htm)  
 fontを拝借しました。
 
 
